@@ -2,3 +2,32 @@ html {
   height: 100%;
   width: 100%;
 }
+
+p {
+color: pink;
+}
+
+section {
+color: purple;
+}
+
+.navbar {
+background-color: #f4a4c0;
+}
+section{
+color: #000000;
+}
+
+.navbar {
+background-color: #ffb5af;
+}
+
+/* target the about .skills
+change the background color
+change the text color */
+.skills {
+  background-color: #fffc41;
+color: #000000
+}
+
+  
