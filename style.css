@@ -4,7 +4,7 @@ html {
 }
 
 p {
-color: pink;
+color: black;
 }
 
 section {
@@ -30,4 +30,14 @@ change the text color */
 color: #000000
 }
 
-  
+.about{
+  background-color: #caf0fe;
+}
+
+.contact{
+  background-color: #ed719e;
+}
+
+ul {
+  list-style-type: none;
+}
